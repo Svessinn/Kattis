@@ -1,0 +1,6 @@
+x = str(input())
+T = x.count('T')
+C = x.count('C')
+G = x.count('G')
+Min = min(T, C, G)
+print(T**2+C**2+G**2+7*Min)
