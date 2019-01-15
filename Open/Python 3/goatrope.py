@@ -1,0 +1,10 @@
+from math import hypot
+x, y, x1, y1, x2, y2 = map(int, input().split())
+if x2 > x > x1 and y > y2: print(y - y2)
+elif x > x2 and y > y2: print(hypot(x - x2, y - y2))
+elif x > x2 and y2 > y > y1: print(x - x2)
+elif x > x2 and y < y1: print(hypot(x - x2, y1 - y))
+elif x2 > x > x1 and y < y1: print(y1 - y)
+elif x < x1 and y < y1: print(hypot(x1 - x, y1 - y))
+elif x < x1 and y2 > y > y1: print(x1 - x)
+elif x < x1 and y > y2: print(hypot(x1 - x, y - y2))
