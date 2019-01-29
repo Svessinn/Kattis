@@ -1,20 +1,18 @@
+import sys
 sum = 0
-Q = int(input())
+Q = int(sys.stdin.readline().strip())
 lst = []
+amm = 0
 for i in range (0, Q):
-    inp = []
-    inp.append(str(input()).split())
-    if inp[0][0] == 'A':
-        sum += int(inp[0][1])
-        lst.append(int(inp[0][1]))
+    inp = sys.stdin.readline().strip().split()
+    num = int(inp[1])
+    if inp[0] == 'A':
+        amm += 1
+        sum += num
+        lst.append(num)
     else:
-        sum -= int(inp[0][1])
-        lst.remove(int(inp[0][1]))
-    if len(lst) != 0:
-        mn = min(lst)
-        mx = max(lst)
-        rnd = round(sum/len(lst), 6)
-    else:
-        mn = mx = rnd = -1
-
-    print(mn, mx, rnd)
+        amm -= 1
+        sum -= num
+        lst.remove(num)
+    if amm > 0: print(min(lst), max(lst), round(sum/len(lst), 6))
+    else: print('-1 -1 -1')
