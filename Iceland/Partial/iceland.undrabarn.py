@@ -1,12 +1,10 @@
-K = int(input())
-num = 0
-counter = 1
-while counter < K:
-    if '0' in str(num) or '8' in str(num):
-        num += 1
-    else:
-        counter += 1
-        num += 1
-if '0' in str(num) or '8' in str(num):
-    num += 1
+import math, sys
+K = int(sys.stdin.readline())
+num = str(oct(K))[1::]
+num1 = num
+for i in range(len(num)-1, -1, -1):
+    if num[i] == '0':
+        num = str(int(int(num) -math.pow(10, (len(num) - i - 1))))
+    elif num[i] == '9' and num1[i] == '0':
+        num = str(int(int(num) - math.pow(10, (len(num) - i - 1)) * 2))
 print(num)
