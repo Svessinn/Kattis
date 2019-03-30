@@ -20,6 +20,43 @@
 * Stalínröðun
 * Svifdrekamaður
 
+### Beta 2019
+* Afjörmun
+* Blaðra
+* Gagnaleki
+* Heimavinna
+* Línuhlýnun
+* Elo
+* Skák
+* Voff
+* Barcelona
+* Brýr
+* Einvígi
+* Háhýsi
+* Klósettröð
+* Mætingarlisti
+* Stafsetning
+* Stalínröðun
+
+### Delta 2019
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
 ### Undirbúningur 2016
 * Búðarkassi 1
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.py)
@@ -39,36 +76,6 @@
 
 ## Here you can see my [Open Kattis Solutions](https://github.com/Svessinn/Kattis/Open)
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Svessinn/Kattis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
