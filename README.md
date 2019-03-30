@@ -1,6 +1,9 @@
 # My Kattis Solutions
 
 ## Here you can see my [Iceland Kattis Solutions](https://github.com/Svessinn/Kattis/Iceland/100)
+### Undirbúningur 2016
+- Búðarkassi 1
+  -[Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.py)
 ## Here you can see my [Open Kattis Solutions](https://github.com/Svessinn/Kattis/Open)
 
 
