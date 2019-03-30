@@ -4,144 +4,267 @@
 
 ### Alfa 2019
 * Afjörmun
+  *
 * Blaðra
+  *
 * Elo
+  *
 * Gagnaleki
+  *
 * Hljóðstilling
+  *
 * Línuhlýnun
+  *
 * Veggspjöld
+  *
 * Voff
+  *
 * Barcelona
+  *
 * Brýr
+  *
 * Háhýsi
+  *
 * Einvígi
+  *
 * Mætingarlisti
+  *
 * Skrift
+  *
 * Stalínröðun
+  *
 * Svifdrekamaður
+  *
 
 ### Beta 2019
 * Afjörmun
+  *
 * Blaðra
+  *
 * Gagnaleki
+  *
 * Heimavinna
+  *
 * Línuhlýnun
+  *
 * Elo
+  *
 * Skák
+  *
 * Voff
+  *
 * Barcelona
+  *
 * Brýr
+  *
 * Einvígi
+  *
 * Háhýsi
+  *
 * Klósettröð
+  *
 * Mætingarlisti
+  *
 * Stafsetning
+  *
 * Stalínröðun
+  *
 
 ### Delta 2019
 * BergMál
+  *
 * Hitastig
+  *
 * Skák
+  *
 * Hakkari
+  *
 * Afjörmun
+  *
 * Blaðra
+  *
 * Heimavinna
+  *
 * Línuhlýnun
+  *
 * Dagatal
+  *
 * Barcelona
+  *
 * Skyttur
+  *
 * Minesweeper
+  *
 * Mætingarlisti
+  *
 * Klósettröð
+  *
 * Stafsetning
+  *
 * Háhýsi
+  *
 
 ### Beta 2018
 * Eldspýtur
+  *
 * Hornrétt
+  *
 * Gatnamót
+  *
 * Nafnatalning
+  *
 * Landsreisa
+  *
 * Lyklagagnariti
+  *
 * Star Wars röðun
+  *
 * Röðun
+  *
 * Eilíf æska
+  *
 * Takkar
+  *
 * Pönnukökur
+  *
 * Formúlublað
+  *
 * Skilaboð
+  *
 * Vinir
+  *
 
 ### Delta 2018
 * Heysáta
+  *
 * Telja
+  *
 * Mörk
+  *
 * Hornrétt
+  *
 * Star Wars röðun
+  *
 * Eldspýtur
+  *
 * Lyklagagnariti
+  *
 * Landsreisa
+  *
 * Takkar
+  *
 * Aldur
+  *
 * Einkunnir
+  *
 * Skilaboð
+  *
 * Pönnukökur
+  *
 * Undratré
+  *
 
 ### Beta 2017
 * Ég elska hann
+  *
 * XORsistinn 2
+  *
 * Veggurinn, seinni hluti
+  *
 * Önnur tilgáta Goldbachs
+  *
 * Siggi sement
+  *
 * Órökrétt
+  *
 * Einfalt Dæmi!
+  *
 * Leynitölur
+  *
 * Heimilisverk
+  *
 * Fullkomin mylla
+  *
 * Toggi
+  *
 * Undrabarn
+  *
 
 ### Delta 2017
 * Öfugsnúið
+  *
 * Desiigner strengir
+  *
 * Dansgólf
+  *
 * XORsistinn
+  *
 * Ég elska hann
+  *
 * Önnur tilgáta Goldbachs
+  *
 * Einfalt Dæmi!
+  *
 * Fullkomin mylla
+  *
 * Heimilisverk
+  *
 * Siggi sement
+  *
 * Toggi
+  *
 
 ### Beta 2016
 * Backspace
+  *
 * Roomba 2
+  *
 * Tölfræði
+  *
 * Flygildi
+  *
 * Samhverfudulritun
+  *
 * Bolir
+  *
 * Bitaflipp
+  *
 * Dans
+  *
 * Geimskip
+  *
 * Röknet
+  *
 * Símanúmer
+  *
 * Heiltölusumma
+  *
 
 ### Delta 2016
 * Frumtölur
+  *
 * Liðaskipting
+  *
 * Akureyri
+  *
 * Backspace
+  *
 * Roomba 1
+  *
 * Tölfræði
+  *
 * Giskaðu á svarið
+  *
 * Uppröðun
+  *
 * Heiltölusumma	
+  *
 * Léttasta verkefnið?
+  *
 * Símanúmer
+  *
 * Bitaflipp
+  *
 
 ### Undirbúningur 2016
 * Búðarkassi 1
