@@ -2,18 +2,9 @@
 
 ## Here you can see my [Iceland Kattis Solutions](https://github.com/Svessinn/Kattis/Iceland/100)
 ### Undirbúningur 2016
-```html
-<ul>
-  <h4>Búðarkassi 1</h4>
-  <ul>
-    <p>Python</p>
-    <p>C++</p>
-  </ul>
-</ul>
-```
 - Búðarkassi 1
-  [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.py)
-  [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.cpp)
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.cpp)
 - Búðarkassi 2
 - Textabylting
 - Stigagjöf
