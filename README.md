@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+# My Kattis Solutions
 
-You can use the [editor on GitHub](https://github.com/Svessinn/Kattis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Here you can see my [Iceland Kattis Solutions](https://github.com/Svessinn/Kattis/Iceland/100)
+## Here you can see my [Open Kattis Solutions](https://github.com/Svessinn/Kattis/Open)
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
