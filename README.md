@@ -5,11 +5,11 @@
 * Búðarkassi 1
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.py)
   * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.cpp)
-- Búðarkassi 2
-- Textabylting
-- Stigagjöf
-- Sjálfsalastuð
-- Fjarflutningur
+* Búðarkassi 2
+* Textabylting
+* Stigagjöf
+* Sjálfsalastuð
+* Fjarflutningur
   
 
 ## Here you can see my [Open Kattis Solutions](https://github.com/Svessinn/Kattis/Open)
