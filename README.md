@@ -130,18 +130,18 @@
 * Heiltölusumma
 
 ### Delta 2016
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Frumtölur
+* Liðaskipting
+* Akureyri
+* Backspace
+* Roomba 1
+* Tölfræði
+* Giskaðu á svarið
+* Uppröðun
+* Heiltölusumma	
+* Léttasta verkefnið?
+* Símanúmer
+* Bitaflipp
 
 ### Undirbúningur 2016
 * Búðarkassi 1
