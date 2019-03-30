@@ -56,6 +56,17 @@
 * Stafsetning
 * Háhýsi
 
+### Beta 2018
+
+### Delta 2018
+
+### Beta 2017
+
+### Delta 2017
+
+### Beta 2016
+
+### Delta 2016
 
 ### Undirbúningur 2016
 * Búðarkassi 1
