@@ -1,6 +1,25 @@
 # My Kattis Solutions
 
 ## Here you can see my [Iceland Kattis Solutions](https://github.com/Svessinn/Kattis/Iceland/100)
+
+### Alfa 2019
+* Afjörmun
+* Blaðra
+* Elo
+* Gagnaleki
+* Hljóðstilling
+* Línuhlýnun
+* Veggspjöld
+* Voff
+* Barcelona
+* Brýr
+* Háhýsi
+* Einvígi
+* Mætingarlisti
+* Skrift
+* Stalínröðun
+* Svifdrekamaður
+
 ### Undirbúningur 2016
 * Búðarkassi 1
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.py)
@@ -17,7 +36,6 @@
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.sjalfsalastud.py)
   * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.sjalfsalastud.cpp)
 * Fjarflutningur
-  
 
 ## Here you can see my [Open Kattis Solutions](https://github.com/Svessinn/Kattis/Open)
 
