@@ -116,17 +116,18 @@
 * Toggi
 
 ### Beta 2016
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Backspace
+* Roomba 2
+* Tölfræði
+* Flygildi
+* Samhverfudulritun
+* Bolir
+* Bitaflipp
+* Dans
+* Geimskip
+* Röknet
+* Símanúmer
+* Heiltölusumma
 
 ### Delta 2016
 * 
