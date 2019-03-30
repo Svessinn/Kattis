@@ -39,22 +39,22 @@
 * Stalínröðun
 
 ### Delta 2019
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* BergMál
+* Hitastig
+* Skák
+* Hakkari
+* Afjörmun
+* Blaðra
+* Heimavinna
+* Línuhlýnun
+* Dagatal
+* Barcelona
+* Skyttur
+* Minesweeper
+* Mætingarlisti
+* Klósettröð
+* Stafsetning
+* Háhýsi
 
 
 ### Undirbúningur 2016
