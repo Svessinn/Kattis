@@ -57,16 +57,93 @@
 * Háhýsi
 
 ### Beta 2018
+* Eldspýtur
+* Hornrétt
+* Gatnamót
+* Nafnatalning
+* Landsreisa
+* Lyklagagnariti
+* Star Wars röðun
+* Röðun
+* Eilíf æska
+* Takkar
+* Pönnukökur
+* Formúlublað
+* Skilaboð
+* Vinir
 
 ### Delta 2018
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ### Beta 2017
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ### Delta 2017
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ### Beta 2016
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ### Delta 2016
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
 
 ### Undirbúningur 2016
 * Búðarkassi 1
