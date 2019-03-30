@@ -73,50 +73,47 @@
 * Vinir
 
 ### Delta 2018
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Heysáta
+* Telja
+* Mörk
+* Hornrétt
+* Star Wars röðun
+* Eldspýtur
+* Lyklagagnariti
+* Landsreisa
+* Takkar
+* Aldur
+* Einkunnir
+* Skilaboð
+* Pönnukökur
+* Undratré
 
 ### Beta 2017
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Ég elska hann
+* XORsistinn 2
+* Veggurinn, seinni hluti
+* Önnur tilgáta Goldbachs
+* Siggi sement
+* Órökrétt
+* Einfalt Dæmi!
+* Leynitölur
+* Heimilisverk
+* Fullkomin mylla
+* Toggi
+* Undrabarn
 
 ### Delta 2017
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* Öfugsnúið
+* Desiigner strengir
+* Dansgólf
+* XORsistinn
+* Ég elska hann
+* Önnur tilgáta Goldbachs
+* Einfalt Dæmi!
+* Fullkomin mylla
+* Heimilisverk
+* Siggi sement
+* Toggi
 
 ### Beta 2016
 * 
