@@ -7,11 +7,15 @@
   * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi1.cpp)
 * Búðarkassi 2
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi2.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.budarkassi2.cpp)
 * Textabylting
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.textabylting.py)
 * Stigagjöf
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.stigagjof.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.stigagjof.cpp)
 * Sjálfsalastuð
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.sjalfsalastud.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.sjalfsalastud.cpp)
 * Fjarflutningur
   
 
