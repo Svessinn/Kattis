@@ -72,33 +72,33 @@
 
 ### Delta 2019
 * BergMál
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.bergmal.py)
 * Hitastig
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.hitastig.py)
 * Skák
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.skak.py)
 * Hakkari
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.hakkari.py)
 * Afjörmun
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.afjormun.py)
 * Blaðra
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.bladra.py)
 * Heimavinna
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.heimavinna.py)
 * Línuhlýnun
   * []()
 * Dagatal
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.dagatal.py)
 * Barcelona
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.barcelona.py)
 * Skyttur
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.skyttur.py)
 * Minesweeper
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.minesweeper.py)
 * Mætingarlisti
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.maetingalisti.py)
 * Klósettröð
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.klosettrod.py)
 * Stafsetning
   * []()
 * Háhýsi
