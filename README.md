@@ -96,7 +96,7 @@
 * Minesweeper
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.minesweeper.py)
 * Mætingarlisti
-  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.maetingalisti.py)
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.maetingarlisti.py)
 * Klósettröð
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.klosettrod.py)
 * Stafsetning
