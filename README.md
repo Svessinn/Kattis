@@ -242,29 +242,31 @@
 
 ### Delta 2016
 * Frumtölur
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.frumtolur.py)
 * Liðaskipting
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.lidaskipting.py)
 * Akureyri
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.akureyri.py)
 * Backspace
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.backspace.py)
 * Roomba 1
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.roomba1.py)
 * Tölfræði
   * []()
 * Giskaðu á svarið
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.giskadu.py)
 * Uppröðun
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.upprodun.py)
 * Heiltölusumma	
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.heiltolusumma.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.heiltolusumma.cpp)
 * Léttasta verkefnið?
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.lettasta.py)
 * Símanúmer
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.simanumer.py)
 * Bitaflipp
-  *  []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.bitaflipp.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.bitaflipp.cpp)
 
 ### Undirbúningur 2016
 * Búðarkassi 1
