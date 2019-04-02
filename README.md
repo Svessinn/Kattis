@@ -166,53 +166,54 @@
 
 ### Beta 2017
 * Ég elska hann
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.egelskahann2.py)
 * XORsistinn 2
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.xorsist2.py)
 * Veggurinn, seinni hluti
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.malari.py)
 * Önnur tilgáta Goldbachs
   * []()
 * Siggi sement
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.sement.py)
 * Órökrétt
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.orokrett.py)
 * Einfalt Dæmi!
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.einfalt.py)
 * Leynitölur
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.leynitolur.py)
 * Heimilisverk
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.heimilisverk.py)
 * Fullkomin mylla
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.mylla.py)
 * Toggi
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.toggi.py)
 * Undrabarn
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.undrabarn(py2).py)
 
 ### Delta 2017
 * Öfugsnúið
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.ofugsnuid.py)
 * Desiigner strengir
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.desiigner.py)
 * Dansgólf
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.dansgolf.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.dansgolf.cpp)
 * XORsistinn
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.xorsist.py)
 * Ég elska hann
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.egelskahann.py)
 * Önnur tilgáta Goldbachs
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.goldbach.py)
 * Einfalt Dæmi!
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.einfalt.py)
 * Fullkomin mylla
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.mylla.py)
 * Heimilisverk
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.heimilisverk.py)
 * Siggi sement
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.sement.py)
 * Toggi
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.toggi.py)
 
 ### Beta 2016
 * Backspace
