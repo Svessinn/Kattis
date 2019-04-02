@@ -216,29 +216,31 @@
 
 ### Beta 2016
 * Backspace
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.backspace.py)
 * Roomba 2
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.roomba2.py)
 * Tölfræði
   * []()
 * Flygildi
   * []()
 * Samhverfudulritun
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.samhverfur.py)
 * Bolir
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.bolir.py)
 * Bitaflipp
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.bitaflipp.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.bitaflipp.cpp)
 * Dans
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.dans.py)
 * Geimskip
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.geimskip.py)
 * Röknet
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.roknet.py)
 * Símanúmer
-  * []()
-* Heiltölusumma
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.simanumer.py)
+* Heiltölusumma	
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.heiltolusumma.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.heiltolusumma.cpp)
 
 ### Delta 2016
 * Frumtölur
