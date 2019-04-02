@@ -106,59 +106,62 @@
 
 ### Beta 2018
 * Eldspýtur
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.eldspytur.py)
 * Hornrétt
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.hornrett.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.hornrett.cpp)
 * Gatnamót
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.gatnamot.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.gatnamot.cpp)
 * Nafnatalning
   * []()
 * Landsreisa
   * []()
 * Lyklagagnariti
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.lyklagangriti.py)
 * Star Wars röðun
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.starwars.py)
 * Röðun
   * []()
 * Eilíf æska
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.eilifaeska.py)
 * Takkar
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.takkar.py)
 * Pönnukökur
   * []()
 * Formúlublað
   * []()
 * Skilaboð
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.skilabod.py)
 * Vinir
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.vinir.py)
 
 ### Delta 2018
 * Heysáta
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.heysata.py)
 * Telja
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.telja.py)
 * Mörk
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.mork.py)
 * Hornrétt
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.hornrett.py)
+  * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.hornrett.cpp)
 * Star Wars röðun
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.starwars.py)
 * Eldspýtur
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.eldspytur.py)
 * Lyklagagnariti
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.lyklagangriti.py)
 * Landsreisa
   * []()
 * Takkar
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.takkar.py)
 * Aldur
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.aldur.py)
 * Einkunnir
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.einkunnir.py)
 * Skilaboð
-  * []()
+  * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.skilabod.py)
 * Pönnukökur
   * []()
 * Undratré
