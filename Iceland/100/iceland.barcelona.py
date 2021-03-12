@@ -1,6 +1,0 @@
-n, k = map(int, input().split())
-a = list(map(int, input().split()))
-b = a.index(k)
-if b == 0: print('fyrst')
-elif b == 1: print('naestfyrst')
-else: print(b+1, 'fyrst')
