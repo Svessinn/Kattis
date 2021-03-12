@@ -398,10 +398,15 @@
 
 ### Undirbúningur 2016
 * Búðarkassi 1
+  * []()
 * Búðarkassi 2
+  * []()
 * Textabylting
+  * []()
 * Stigagjöf
+  * []()
 * Sjálfsalastuð
+  * []()
 * Fjarflutningur
   * []()
 
