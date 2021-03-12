@@ -2,6 +2,136 @@
 
 ## Here you can see my [Iceland Kattis Solutions](https://github.com/Svessinn/Kattis/Iceland/100)
 
+### Alfa 2020
+* Blaðra
+  * []()
+* Fibonacci Gjöf
+  * []()
+* Gini Stuðull
+  * []()
+* Hlaupafmæli
+  * []()
+* Núll og tveir
+  * []()
+* Raðgreining 1
+  * []()
+* RNG Test
+  * []()
+* Sushi
+  * []()
+* Þjarki
+  * []()
+* Veggja Kalli
+  * []()
+* Bergur
+  * []()
+* Fleytitala
+  * []()
+* 	Leiðangur
+  * []()
+* Peningar
+  * []()
+* Pýramídasala
+  * []()
+* Raðgreining 2
+  * []()
+* Rust
+  * []()
+* Skattaskrattar
+  * []()
+* Snjóteppa
+  * []()
+* Veður
+  * []()
+
+### Beta 2020
+* Besta gjöfin	
+  * []()
+* Bið, endalaus bið	
+  * []()
+* Blaðra
+  * []()
+* Gini Stuðull	
+  * []()
+* Hlaupafmæli	
+  * []()
+* Miði
+  * []()
+* Raðgreining 1	
+  * []()
+* RNG Test	
+  * []()
+* Þjarki	
+  * []()
+* Veggja Kalli	
+  * []()
+* Bergur	
+  * []()
+* Fleytitala	
+  * []()
+* Kínahvísl	
+  * []()
+* Lægð yfir landinu	
+  * []()
+* Leiðangur
+  * []()
+* Peningar
+  * []()
+* Pýramídasala	
+  * []()
+* Rust
+  * []()
+* Snjóteppa	
+  * []()
+* Tok Tik	
+  * []()
+
+### Delta 2020
+* Til hamingju	
+  * []()
+* Hipp Hipp	
+  * []()
+* Hipp Hipp Húrra	
+  * []()
+* Besta gjöfin	
+  * []()
+* Blaðra	
+  * []()
+* Miði	
+  * []()
+* Bið, endalaus bið	
+  * []()
+* Raðgreining 1	
+  * []()
+* Hlaupafmæli	
+  * []()
+* Veggja Kalli	
+  * []()
+* RNG Test	
+  * []()
+* Stórafmæli	
+  * []()
+* Takk fyrir mig	
+  * []()
+* Fyrirtækjanafn	
+  * []()
+* Kínahvísl	
+  * []()
+* Fleytitala	
+  * []()
+* Tok Tik	
+  * []()
+* Lægð yfir landinu	
+  * []()
+* Bergur	
+  * []()
+* Peningar	
+  * []()
+* Leiðangur	
+  * []()
+* Snjóteppa	
+  * []()
+
 ### Alfa 2019
 * Afjörmun
   * []()
@@ -290,6 +420,7 @@
   * [Python](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.sjalfsalastud.py)
   * [C++](https://github.com/Svessinn/Kattis/blob/master/Iceland/100/iceland.sjalfsalastud.cpp)
 * Fjarflutningur
+  * []()
 
 ## Here you can see my [Open Kattis Solutions](https://github.com/Svessinn/Kattis/Open)
 
